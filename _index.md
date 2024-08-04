@@ -1,5 +1,5 @@
 ---
 type : "tags"
-title: "Guides"
-subtitle : "Basic guides for each CTF category"
+title: "Notes"
+subtitle : "All guides and writeups"
 ---

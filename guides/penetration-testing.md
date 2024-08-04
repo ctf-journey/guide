@@ -13,10 +13,18 @@ Draft:
 - Nmap
 - Metasploit
 - Exploit Database [Website](https://www.exploit-db.com/)
+- enum4linux, SMB share enumeration
 
 ## Key concepts
 - Enumeration
+    - Port scanning
+        - `nmap -sC -sV`
+    - SMB shares
+        - `smbclient -L target_ip`
+    - FTP server
+    - WinRM
 - Gaining access
+    - Web shell
 - Privillege escalation
     - Restricted shell
         - Usually done with rbash
